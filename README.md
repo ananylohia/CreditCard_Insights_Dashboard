@@ -6,8 +6,8 @@ A Power BI dashboard that analyzes credit card transaction patterns, revenue con
 
 ## 📊 Dashboard Preview
 
-![Dashboard Screenshot](./a00f8e58-bef2-457f-b7e6-6f6568cc6b82.png)
-
+![Dashboard Screenshot](DashBoard1.png)
+![Dashboard Screenshot](DashBoard2.png)
 ---
 
 ## 📁 Dataset Details
@@ -58,4 +58,24 @@ The dataset includes:
 ## 🚀 How to Use
 
 1. Clone this repo or download files.
-2. Open `
+2. Open `credit_card_report.pbit` in Power BI Desktop.
+3. Connect the data (if required) or refresh.
+4. Explore using slicers and filters!
+
+---
+
+## 📌 Note
+
+This dashboard is created for educational purposes and based on fictional or anonymized data.
+
+---
+
+## 🧑‍💻 Author
+
+**Anany Lohia**  
+📧 ananyatworkk@gmail.com  
+🌐 [LinkedIn](https://www.linkedin.com/in/ananyakrlohia/)
+
+---
+
+⭐ *If you like this project, give it a star!*
